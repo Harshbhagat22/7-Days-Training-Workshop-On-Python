@@ -1,12 +1,12 @@
 # Python Training Workshop: 7-Day Intensive Session
 
-Welcome to the **Python Training Workshop**! This 7-day workshop is designed to provide you with a comprehensive introduction to Python, covering its core concepts and real-world applications. The workshop starts **tomorrow** and promises to be an engaging and interactive learning experience for all participants.
+Welcome to the **Python Training Workshop**! This 7-day workshop is designed to provide you with a comprehensive introduction to Python, covering its core concepts and real-world applications. The workshop promises to be an engaging and interactive learning experience for all participants.
 
 ## Workshop Details
 - **Duration**: 7 Days
-- **Start Date**: 13-12-2024
-- **Format**: Offline Sessions
-- **Instructor**: ?
+- **Start Date**: 13-12-2024 To 21-12-2024
+- **Format**: Offline Mode
+- **Instructor**: [name to be announced]
 
 ## What You'll Learn
 Over the course of 7 days, you'll gain hands-on experience in:
