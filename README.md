@@ -7,6 +7,7 @@ Welcome to the **Python Training Workshop**! This 7-day workshop is designed to 
 - **Start Date**: 13-12-2024 To 21-12-2024
 - **Format**: Offline Mode
 - **Instructor**: [name to be announced]
+- **Venue**: St. Vincent Pallotti College of Engineering & Technology
 
 ## What You'll Learn
 Over the course of 7 days, you'll gain hands-on experience in:
@@ -25,4 +26,3 @@ This workshop is suitable for:
 - Students eager to learn a versatile programming language.
 ---
 Let’s embark on this journey together to master Python! 🚀
-
