@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(224, 208, 208);
+    background-color: white;
+}
+
+.container {
+    border: 2px solid rgb(224, 208, 208);
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(224, 208, 208);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(224, 208, 208);
+}
